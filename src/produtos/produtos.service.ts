@@ -23,4 +23,5 @@ export class ProdutosService {
        console.log(qb.getSql());
        return await qb.getRawMany();
     }
+    //ddddddddddddddddddddd
 }
