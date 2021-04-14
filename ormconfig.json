@@ -1,0 +1,9 @@
+{
+"type": "mssql",
+"host": "177.22.111.206",
+"username": "supersys",
+"password": "super3650",
+"database": "dados_argaforte",
+"entities":["src/**/**.entity{.ts,.js}"],
+"synchronize": false
+}
